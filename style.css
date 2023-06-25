@@ -1,0 +1,29 @@
+*{
+    font-family: 'Garamond', cursive;
+}
+
+    
+
+ 
+
+
+ nav{
+    display: inline-grid;
+    background-color: #FFFF00;
+}
+
+
+.h3{
+  text-decoration-style: bold;
+}
+
+.h1{
+    font-size: 16px;
+}  
+    
+ 
+ 
+ .div{
+    background-color: khaki;
+    
+}
